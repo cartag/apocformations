@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<dataIndex battleScribeVersion="1.15" name="apocformations" indexUrl="https://github.com/cartag/apocformations/blob/master/index.bsi" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
+<dataIndex battleScribeVersion="1.15" name="ApocFormations" indexUrl="https://github.com/cartag/apocformations/blob/master/index.bsi" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
   <repositoryUrls/>
   <dataIndexEntries>
-    <dataIndexEntry filePath="Warhammer40K.gstz" dataType="gamesystem" dataId="e1ebd931-a209-3ce4-87b4-d9918d25530b" dataName="Warhammer 40,000 7th Edition" dataBattleScribeVersion="1.15" dataRevision="11"/>
     <dataIndexEntry filePath="Apocalypse_Chaos.catz" dataType="catalogue" dataId="4f177205-3462-3e8f-2e0b-08b5ca06dd7b" dataName="Apocalypse: Chaos" dataBattleScribeVersion="1.15" dataRevision="4"/>
+    <dataIndexEntry filePath="Warhammer40K.gstz" dataType="gamesystem" dataId="e1ebd931-a209-3ce4-87b4-d9918d25530b" dataName="Warhammer 40,000 7th Edition" dataBattleScribeVersion="1.15" dataRevision="11"/>
   </dataIndexEntries>
 </dataIndex>

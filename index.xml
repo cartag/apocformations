@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<dataIndex battleScribeVersion="1.15" name="apocformations" indexUrl="https://github.com/cartag/apocformations/blob/master/index.bsi" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
+<dataIndex battleScribeVersion="1.15" name="apocformations" indexUrl="https://dl.dropboxusercontent.com/u/13435935/Repository/index.bsi" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
   <repositoryUrls/>
   <dataIndexEntries>
     <dataIndexEntry filePath="Warhammer40K.gstz" dataType="gamesystem" dataId="e1ebd931-a209-3ce4-87b4-d9918d25530b" dataName="Warhammer 40,000 7th Edition" dataBattleScribeVersion="1.15" dataRevision="12"/>
-    <dataIndexEntry filePath="Apocalypse_Chaos.catz" dataType="catalogue" dataId="a1f302a3-254b-b94c-68cf-4fae2eb1c0f8" dataName="Apocalypse: Chaos" dataBattleScribeVersion="1.15" dataRevision="6"/>
+    <dataIndexEntry filePath="Apocalypse_Chaos.catz" dataType="catalogue" dataId="a1f302a3-254b-b94c-68cf-4fae2eb1c0f8" dataName="Apocalypse: Chaos Space Marines" dataBattleScribeVersion="1.15" dataRevision="7"/>
+    <dataIndexEntry filePath="Apocalypse_Chaos_Daemons.catz" dataType="catalogue" dataId="3555a34a-5792-8a3c-ab29-b1d277ff1a00" dataName="Chaos Daemons - Apocalypse" dataBattleScribeVersion="1.15" dataRevision="3"/>
   </dataIndexEntries>
 </dataIndex>
